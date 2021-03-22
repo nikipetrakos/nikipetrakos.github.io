@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Niki Petrakos - Biostatistics Portfolio"
+title                    : "Niki Petrakos / Home"
 title_separator          : "-"
 name                     : &name "Niki Petrakos"
 description              : &description "M.S. Biostatistics Student, University of Washington"
