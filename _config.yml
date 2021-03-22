@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Niki Petrakos - Biostatistics Portfolio"
 title_separator          : "-"
 name                     : &name "Niki Petrakos"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "M.S. Biostatistics Student, University of Washington"
+url                      : https://nikipetrakos.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "nikipetrakos/nikipetrakos.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -31,7 +31,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
+  allowedFields          : ['Niki Petrakos', 'nikip@uw.edu', 'https://nikipetrakos.github.io', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Niki Petrakos"
   avatar           : "profile.jpg"
-  bio              : "[Insert Biography Here]"
+  bio              : "M.S. Biostatistics student at the University of Washington."
   location         : "Location"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # only put the part after your linkedin.com
+  linkedin         : "niki-petrakos-b05144189" # only put the part after your linkedin.com
   #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
