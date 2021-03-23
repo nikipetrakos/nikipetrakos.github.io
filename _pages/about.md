@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a current Master's student at the University of Washington, studying biostatistics. 
+I am a current master's student at the University of Washington, studying biostatistics. 
 
 For more info
 ------
