@@ -11,9 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Mathematics, McGill University, 2016
+* M.S. in Biostatistics, University of Washington, 2022 (expected)
+
+Research Experience
+======
+* Graduate Researcher
+  * Harborview Medical Center, Seattle WA
+  * Supervisor: Professor Git
+  * Conduct a propensity score matching data analysis research project comparing three immunosuppression regimens for post-liver transplant patients to investigate which regimen is associated with lower mortality and higher graft survival
+  * Data from United Network for Organ Sharing (UNOS) database; statistical analyses performed in R
+
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
 
 Work experience
 ======
