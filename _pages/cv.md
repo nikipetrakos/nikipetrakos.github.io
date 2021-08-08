@@ -10,12 +10,10 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-======
 * M.S. in Biostatistics, University of Washington, 2022 (expected)
 * B.Sc. in Mathematics, McGill University, 2020
 
 ## Research Experience
-======
 * **Graduate Researcher** (May 2021 - present)
   * Harborview Medical Center; Seattle, WA
   * Supervisor: Dr. Charles Landis
@@ -29,7 +27,6 @@ redirect_from:
   * Conducted simulation studies using the simsalapar package, wrote a method in R to output adjusted p-values using the Step-Down Lehmann-Romano adjustment method
 
 ## Work experience
-======
 * **Marketing Analytics - Graduate Intern** (Jun 2021 - present)
   * Kaiser Permanente; Oakland, CA
   * Supervisor: Smriti Malla, Senior Data Consultant - Marketing
@@ -57,7 +54,6 @@ redirect_from:
   * Enrolled patients in various liver disease studies, linked patients to Hepatitis C treatment, followed patients through treatment, documented results, communicated with trial sponsors
   
 ## Skills
-======
 * Coding
   * Proficient in: R
   * Experience with: SAS, SQL, Java, C, C++
@@ -67,7 +63,6 @@ redirect_from:
 * Interpersonal Communication
 
 ## Service and Leadership
-======
 * **Biostatistics Equity, Diversity, and Inclusion (EDI) Committee**
   * General committee member and outreach subcommittee member (Sep 2020 - present)
   * As a general committee member: Collaborate with other members to address EDI issues within the biostatistics department as well as in the greater system of academia
