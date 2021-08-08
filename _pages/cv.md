@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Mathematics, McGill University, 2016
 * M.S. in Biostatistics, University of Washington, 2022 (expected)
+* B.Sc. in Mathematics, McGill University, 2016
 
 Research Experience
 ======
@@ -70,8 +70,13 @@ Skills
 
 Service and Leadership
 ======
-* President (May 2019 - Apr 2020), VP Fundraising (Sep 2018 - Apr 2019), VP Social Media (Sep 2017 - Apr 2018)
-  * Alegria Contemporary Ballet Company; Montreal, QC
+* Biostatistics Equity, Diversity, and Inclusion (EDI) Committee; Seattle, WA
+  * General committee member and Outreach subcommittee member (Sep 2020 - present)
+  * As a general committee member: Collaborate with other members to address EDI issues within the biostatistics department as well as in the greater system of academia
+  * As an outreach subcommittee member: work in a small group to further high school outreach via introductory R interactive modules, Q&A sessions, and expanding the biostatistics department's social media presence
+
+* Alegria Contemporary Ballet Company; Montreal, QC
+  * President (May 2019 - Apr 2020), VP Fundraising (Sep 2018 - Apr 2019), VP Social Media (Sep 2017 - Apr 2018)
   * As President: Led and directed a student-run dance company, which included producing two shows per year, organizing regular rehearsals, choreographing original pieces, designing lighting and music choices, and maintaining a positive, creative dance environment. Also worked towards making ballet more accessible to the greater Montreal area by offering open classes and discounted tickets to Les Grands Ballets and other dance groups
   * As VP Fundraising: Organized both large- and small-scale fundraisers to ensure the financial security of Alegria. Collaborated with other student groups and institutions/companies in Montreal
   * As VP Social Media: Advertised Alegria's events and fundraisers to McGill students and the greater Montreal area. Graphically designed social media posts, cover art, and posters. Created and edited promotional videos 
