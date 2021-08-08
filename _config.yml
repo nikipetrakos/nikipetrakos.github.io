@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Niki Petrakos"
+  name             : "Niki Petrakos (she/her)"
   avatar           : "profile.jpg"
-  bio              : "M.S. Biostatistics student at the University of Washington."
-  location         : "Location"
+  bio              : "M.S. Biostatistics student at the University of Washington"
+  location         : "Seattle, WA"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "nikip@uw.edu"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
