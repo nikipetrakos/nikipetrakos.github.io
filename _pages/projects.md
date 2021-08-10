@@ -12,4 +12,4 @@ This independent data analysis project aims to answer the fundamental question -
   * people with co-occurring mental and substance abuse issues, and 
   * houseless people
 
-To read the project in entirety, please reference the Portfolio section of my website!
+To read the project in entirety, please reference my [GitHub repository](https://github.com/nikipetrakos/substance-abuse-project/blob/main/Niki%20Petrakos%20Final%20Draft%20-%20Edited%208_8.pdf)!
