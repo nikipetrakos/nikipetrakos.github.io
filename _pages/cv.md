@@ -17,7 +17,7 @@ redirect_from:
 * **Graduate Researcher - Master's Capstone Project** (Oct 2021 - present)
   * University of Washington; Seattle, WA
   * Supervisor: Dr. Patrick Heagerty
-  * Project details TBA
+  * Project details TBD
 
 * **Undergraduate Researcher** (Jan 2019 - Feb 2020)
   * McGill University; Montreal, QC
