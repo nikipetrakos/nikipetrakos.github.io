@@ -14,11 +14,10 @@ redirect_from:
 * B.Sc. in Mathematics, McGill University, 2020
 
 ## Research Experience
-* **Graduate Researcher** (May 2021 - present)
-  * Harborview Medical Center; Seattle, WA
-  * Supervisor: Dr. Charles Landis
-  * Conduct a propensity score matching data analysis research project comparing three immunosuppression regimens for post-liver transplant patients to investigate which regimen is associated with lower mortality and higher graft survival
-  * Data from United Network for Organ Sharing (UNOS) database; statistical analyses performed in R
+* **Graduate Researcher - Master's Capstone Project** (Oct 2021 - present)
+  * University of Washington; Seattle, WA
+  * Supervisor: Dr. Patrick Heagerty
+  * Project details TBA
 
 * **Undergraduate Researcher** (Jan 2019 - Feb 2020)
   * McGill University; Montreal, QC
