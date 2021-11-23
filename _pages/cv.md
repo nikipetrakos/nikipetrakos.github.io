@@ -14,10 +14,11 @@ redirect_from:
 * B.Sc. in Mathematics, McGill University, 2020
 
 ## Research Experience
-* **Graduate Researcher - Master's Capstone Project** (Oct 2021 - present)
+* **Graduate Researcher - Master's Capstone Project** (Sep 2021 - present)
   * University of Washington; Seattle, WA
-  * Supervisor: Dr. Patrick Heagerty
-  * Project details TBD
+  * Supervisor: Dr. Danny Colombara and Dr. Alastair Matheson
+  * Collaborate with Public Health - Seattle & King County to investigate the association between positive and negative exits from public housing (e.g., exiting due to home ownership v. due to eviction) and long-term outcomes, including time-to-experiencing-houselesness and change in income.
+  * Responsibilities include: write a statistical analysis plan, perform literature reviews to determine which statistical methods are most appropriate for the given setting (such as choosing a propensity score method for a time-to-event outcome and multilevel treatment), collaborate with public housing partners, execute statistical analysis and create data visualizations in R, write a final report and present final results to a variety of audiences
 
 * **Undergraduate Researcher** (Jan 2019 - Feb 2020)
   * McGill University; Montreal, QC
