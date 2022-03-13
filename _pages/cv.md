@@ -16,7 +16,7 @@ redirect_from:
 ## Research Experience
 * **Graduate Researcher - Master's Capstone Project** (Sep 2021 - present)
   * University of Washington; Seattle, WA
-  * Supervisor: Dr. Danny Colombara and Dr. Alastair Matheson
+  * Supervisors: Dr. Danny Colombara and Dr. Alastair Matheson
   * Collaborate with Public Health - Seattle & King County to investigate the association between positive and negative exits from public housing (e.g., exiting due to home ownership v. due to eviction) and long-term outcomes, including time-to-experiencing-houselesness and change in income
   * Responsibilities include: write a statistical analysis plan, perform literature reviews to determine which statistical methods are most appropriate for the given setting (such as choosing a propensity score method for a time-to-event outcome and multilevel treatment), collaborate with public housing partners, execute statistical analysis and create data visualizations in R, write a final report and present final results to a variety of audiences
 
@@ -56,7 +56,7 @@ redirect_from:
 ## Skills
 * Coding
   * Proficient in: R
-  * Experience with: SAS, SQL, Java, C, C++
+  * Experience with: SAS, SQL, Java, C
 * Statistical Analysis 
   * Including: modeling, inference, machine learning, data visualization
 * Teaching
@@ -64,7 +64,7 @@ redirect_from:
 
 ## Service and Leadership
 * **Biostatistics Equity, Diversity, and Inclusion (EDI) Committee**
-  * General committee member and outreach subcommittee member (Sep 2020 - present)
+  * General committee member and outreach subcommittee member (Sep 2020 - Oct 2021)
   * As a general committee member: Collaborate with other members to address EDI issues within the biostatistics department as well as in the greater system of academia
   * As an outreach subcommittee member: Work in a small group to further high school outreach via introductory R interactive modules, Q&A sessions, and expanding the biostatistics department's social media presence
 
