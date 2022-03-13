@@ -15,7 +15,7 @@ This independent data analysis project aims to answer the fundamental question -
 To read the project in entirety, please reference my [Github repository](https://github.com/nikipetrakos/substance-abuse-project/blob/main/Niki%20Petrakos%20Final%20Draft%20-%20Edited%208_8.pdf)!
 
 ## Mock Randomized Clinical Trial Study Protocol
-For my clinical trials course at UW (BIOST 524), the culminating course project was to work in teams to create a study protocol for a mock randomized clinical trial. My group designed a trial studying restrictive versus liveral red blood cell transfusion strategies in pediatric acute respiratory distress syndrome. The clinicians in the group did the bulk of the clinical background, and myself along with another fellow biostatistics student did the bulk of the statistical methods work. 
+For my clinical trials course at UW (BIOST 524), the culminating course project was to work in teams to create a study protocol for a mock randomized clinical trial. My group designed a trial studying restrictive versus liberal red blood cell transfusion strategies in pediatric acute respiratory distress syndrome. The clinicians in the group did the bulk of the clinical background, and myself along with another fellow biostatistics student did the bulk of the statistical methods work. 
 
 To read the project in entirety, please click [here](https://github.com/nikipetrakos/biost524/blob/42512f0a28660705ef34e441c3fd1b67bd3fbd4f/BIOST524%20Group%208%20project.pdf)!
 
