@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Niki Petrakos (she/her)"
   avatar           : "profile.jpg"
-  bio              : "M.S. Biostatistics student at the University of Washington"
-  location         : "Seattle, WA"
+  bio              : "Incoming Biostatistics PhD Student at McGill University"
+  location         : "Montreal, QC"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "nikip@uw.edu"
+  email            : "niki.petrakos@mail.mcgill.ca"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
