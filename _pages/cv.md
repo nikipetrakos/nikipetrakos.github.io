@@ -10,7 +10,8 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* M.S. in Biostatistics, University of Washington, 2022 (expected)
+* PhD in Biostatistics, McGill University, 2026 (expected)
+* M.S. in Biostatistics, University of Washington, 2022
 * B.Sc. in Mathematics, McGill University, 2020
 
 ## Research Experience
@@ -19,6 +20,7 @@ redirect_from:
   * Supervisors: Dr. Danny Colombara and Dr. Alastair Matheson
   * Collaborate with Public Health - Seattle & King County to investigate the association between positive and negative exits from public housing (e.g., exiting due to home ownership v. due to eviction) and long-term outcomes, including time-to-experiencing-houselesness and change in income
   * Responsibilities include: write a statistical analysis plan, perform literature reviews to determine which statistical methods are most appropriate for the given setting (such as choosing a propensity score method for a time-to-event outcome and multilevel treatment), collaborate with public housing partners, execute statistical analysis and create data visualizations in R, write a final report and present final results to a variety of audiences
+  * Currently in process of submitting for publication
 
 * **Undergraduate Researcher** (Jan 2019 - Feb 2020)
   * McGill University; Montreal, QC
@@ -29,7 +31,7 @@ redirect_from:
 ## Work experience
 * **Marketing Analytics - Graduate Intern** (Jun 2021 - present)
   * Kaiser Permanente; Oakland, CA
-  * Supervisor: Smriti Malla, Senior Data Consultant - Marketing
+  * Supervisor: Smriti Malla, Data Scientist IV
   * Perform statistical analyses to evaluate the relative impact of different care utilization (e.g., in-person vs. telehealth) on member retention; data extraction, preparation, and cleaning involve Oracle and SAS, analyses and data visualizations involve SAS and Excel
   * Attend weekly team meetings, present project updates and results to other analysts and business partners, collaborate with team members
 
