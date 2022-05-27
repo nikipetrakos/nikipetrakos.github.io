@@ -75,3 +75,11 @@ redirect_from:
   * As President: Produced two shows per year, organized regular rehearsals, choreographed original pieces, designed lighting and music choices, and maintained a positive, creative dance environment. Also worked towards making ballet more accessible to the greater Montreal area by offering open classes and discounted tickets to Les Grands Ballets and other dance groups
   * As VP Fundraising: Organized both large- and small-scale fundraisers to ensure the financial security of Alegria. Collaborated with other student groups and institutions/companies in Montreal
   * As VP Social Media: Advertised Alegria's events and fundraisers to McGill students and the greater Montreal area. Graphically designed social media posts, cover art, and posters. Created and edited promotional videos 
+
+## Awards
+* **Oustanding Master's Student - Biostatistics** (May 2022)
+  * University of Washington  
+  
+* **James McGill Scholarship** (Sep 2016 - Apr 2017)
+  * McGill University
+
