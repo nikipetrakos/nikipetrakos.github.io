@@ -13,7 +13,7 @@ I was pleasantly surprised to be awarded the Outstanding Master's Student award 
 For more informantion, please click [here](https://www.biostat.washington.edu/news/stories/biostatistics-students-faculty-and-staff-honored-2022-sph-excellence-awards)!
 
 ## Contributing to Public Health Solutions - UW Biostatistics Article
-My master's capstone group members and I talked about our experience working with Public Health - Seattle and King County and public housing authorities in order to investigate whether *how* someone exits from public housing has an impact on experiencing homelessness in the year following exit.  
+My master's capstone group members and I talked about our experience working with Public Health - Seattle & King County and public housing authorities in order to investigate whether *how* someone exits from public housing has an impact on experiencing homelessness in the year following exit.  
 
 To read the article, please click [here](https://www.biostat.washington.edu/news/stories/ms-capstone-students-contribute-public-health-solutions)!
 
