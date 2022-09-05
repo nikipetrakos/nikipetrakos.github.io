@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Niki Petrakos / Home"
 title_separator          : "-"
 name                     : &name "Niki Petrakos"
-description              : &description "M.S. Biostatistics Student, University of Washington"
+description              : &description "PhD Biostatistics Student, McGill University"
 url                      : https://nikipetrakos.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nikipetrakos/nikipetrakos.github.io"
@@ -31,7 +31,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['Niki Petrakos', 'nikip@uw.edu', 'https://nikipetrakos.github.io', 'message']
+  allowedFields          : ['Niki Petrakos', 'niki.petrakos@mail.mcgill.ca', 'https://nikipetrakos.github.io', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Niki Petrakos (she/her)"
   avatar           : "profile.jpg"
-  bio              : "Incoming Biostatistics PhD Student at McGill University"
+  bio              : "Biostatistics PhD Student at McGill University"
   location         : "Montréal, QC"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
