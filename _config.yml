@@ -31,7 +31,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['Niki Petrakos', 'nikip@uw.edu', 'https://nikipetrakos.github.io', 'message']
+  allowedFields          : ['Niki Petrakos', 'niki.petrakos@mail.mcgill.ca', 'https://nikipetrakos.github.io', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Niki Petrakos (she/her)"
   avatar           : "profile.jpg"
-  bio              : "Biostatistics PhD Student at McGill University"
+  bio              : "Postdoctoral Research Fellow at McGill University"
   location         : "Montréal, QC"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
