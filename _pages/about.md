@@ -7,7 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first year PhD student in biostatistics at McGill University. I am supervised by Dr. Erica Moodie, and I am also working with Dr. Alexandra Pokomandy on research involving the Quebec HIV Cohort, Chronic Virus Illness Service. At a high level, my interests involve applying statistical methodologies to answer public health questions. I am especially interested in how we can draw causal conclusions from observational data in order to study social determinants of health and health disparities, with the goal of lessening the burden health for marginalized communities. When I am not tinkering with R code, I enjoy dancing, reading by the lake, and playing board games with friends!   
+I am a CANFAR-CTN+ postdoctoral research fellow based at the Research Institute of the McGill University Health Centre. Supervised by Dr. Alexandra de Pokomandy, my postdoctoral research focuses on quantifying the real-world uptake and impact of cardiovascular disease primary prevention interventions among people living with HIV in Quebec. As a trained biostatistician, I am passionate about utilizing, and developing if needed, statistical methods to address public health needs such that my work is pertinent to care providers and community members. In particular, I look forward to dividing into target trial emulation and other causal inference methods in my postdoc.
+
+I previously completed my PhD in biostatistics at McGill University, under the supervision of Dr. Erica Moodie. During my PhD, I developed methods for generating completely synthetic trial data that were adequately complex and realistic in order to inform optimal trial design. Prior to that, I received my master's in biostatistics from the University of Washington in Seattle (my hometown!) and my undergraduate degree in mathematics from McGill.
+
+When I am not tinkering with R code, I enjoy dancing, experimenting in the kitchen, and playing board games with friends!   
 
 For more info...
 ------
