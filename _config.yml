@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-CA"
-title                    : "Niki Petrakos / Home"
+title                    : "Niki Z. Petrakos / Home"
 title_separator          : "-"
-name                     : &name "Niki Petrakos"
+name                     : &name "Niki Z. Petrakos"
 description              : &description "Postdoctoral Research Fellow, McGill University"
 url                      : https://nikipetrakos.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -31,7 +31,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['Niki Petrakos', 'niki.petrakos@mail.mcgill.ca', 'https://nikipetrakos.github.io', 'message']
+  allowedFields          : ['Niki Z. Petrakos', 'niki.petrakos@mail.mcgill.ca', 'https://nikipetrakos.github.io', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Niki Petrakos (she/her)"
+  name             : "Niki Z. Petrakos (she/her)"
   avatar           : "profile.jpg"
-  bio              : "Postdoctoral Research Fellow at McGill University"
+  bio              : "Postdoctoral Research Fellow"
   location         : "Montréal, QC"
-  employer         :
+  employer         : "McGill University"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  #googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=m9bPEe0AAAAJ&hl=en"
   email            : "niki.petrakos@mail.mcgill.ca"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
