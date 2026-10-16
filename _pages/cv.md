@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My complete CV can be found [here](/files/paper1.pdf) (last updated: September 2026).
+My complete CV can be found [here](files/Niki Zhong Petrakos - CV.pdf) (last updated: September 2026).
 
 ## Education
 * PhD in Biostatistics, McGill University (2026)
