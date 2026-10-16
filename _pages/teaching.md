@@ -13,7 +13,7 @@ redirect_from:
 [FMED 505](https://coursecatalogue.mcgill.ca/courses/fmed-505/) Epidemiology and Data Analysis in Primary Care 1 (Fall 2026)
 
 ### Teaching Assistant
-[BIOS 602](https://coursecatalogue.mcgill.ca/courses/bios-602/) Epidemiology: Regression Models (Winter 2026)
+[BIOS 602](https://coursecatalogue.mcgill.ca/courses/bios-602/) Epidemiology: Regression Models (Winter 2026)  
 [EXMD 634](https://coursecatalogue.mcgill.ca/courses/exmd-634/) Quantitative Research Methods (Fall 2024)
 
 
