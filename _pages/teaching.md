@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Experience at McGill University
-
+------
 ### Co-Instructor
 FMED 505 Epidemiology and Data Analysis in Primary Care 1 (Fall 2026)
 
@@ -18,7 +18,7 @@ EXMD 634 Quantitative Research Methods (Fall 2024)
 
 
 ## Experience at the University of Washington
-
+------
 ### Teaching Assistant
 Summer Institute in Statistical Genetics, Intro to R short course (Summer 2021)
 
